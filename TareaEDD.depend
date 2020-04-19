@@ -1,0 +1,276 @@
+# depslib dependency file v1.0
+1484014661 source:c:\users\gari\desktop\tareaedd\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"JUGADOR.h"
+	"TECNICO.h"
+	"PAIS.h"
+	"RUT.h"
+	"FECHA.h"
+	"TARJETA.h"
+	"MUNDIAL.h"
+
+1483945273 c:\users\gari\desktop\tareaedd\include\pais.h
+	"JUGADOR.h"
+	"TECNICO.h"
+
+1483819030 c:\users\gari\desktop\tareaedd\include\jugador.h
+	"PERSONA.h"
+	"TARJETA.h"
+
+1483819030 c:\users\gari\desktop\tareaedd\include\persona.h
+	"RUT.h"
+	"FECHA.h"
+	<string>
+
+1483819409 c:\users\gari\desktop\tareaedd\include\rut.h
+
+1483944093 c:\users\gari\desktop\tareaedd\include\fecha.h
+
+1483819595 c:\users\gari\desktop\tareaedd\include\tarjeta.h
+
+1483945346 c:\users\gari\desktop\tareaedd\include\tecnico.h
+	"PERSONA.h"
+
+1483944093 source:c:\users\gari\desktop\tareaedd\src\fecha.cpp
+	"FECHA.h"
+
+1483819066 source:c:\users\gari\desktop\tareaedd\src\jugador.cpp
+	"JUGADOR.h"
+
+1483945307 source:c:\users\gari\desktop\tareaedd\src\pais.cpp
+	"PAIS.h"
+
+1483819101 source:c:\users\gari\desktop\tareaedd\src\persona.cpp
+	"PERSONA.h"
+
+1483819431 source:c:\users\gari\desktop\tareaedd\src\rut.cpp
+	"RUT.h"
+
+1483819511 source:c:\users\gari\desktop\tareaedd\src\tarjeta.cpp
+	"TARJETA.h"
+
+1483945970 source:c:\users\gari\desktop\tareaedd\src\tecnico.cpp
+	"TECNICO.h"
+	"PERSONA.h"
+
+1483926326 source:c:\users\gari\desktop\tareaedd\src\arbitro.cpp
+	"ARBITRO.h"
+
+1483926326 c:\users\gari\desktop\tareaedd\include\arbitro.h
+	"PERSONA.h"
+	"TARJETA.h"
+
+1484011553 source:c:\users\gari\desktop\tareaedd\src\partido.cpp
+	"PARTIDO.h"
+
+1484010576 c:\users\gari\desktop\tareaedd\include\partido.h
+	"PAIS.h"
+	"FECHA.h"
+	"ARBITRO.h"
+
+1484010628 c:\users\gari\desktop\tareaedd\include\mundial.h
+	"FECHA.h"
+	"PARTIDO.h"
+
+1484010902 source:c:\users\gari\desktop\tareaedd\src\mundial.cpp
+	"MUNDIAL.h"
+
+1483926326 source:c:\users\gari\desktop\matussotoedd\src\arbitro.cpp
+	"ARBITRO.h"
+
+1483926326 c:\users\gari\desktop\matussotoedd\include\arbitro.h
+	"PERSONA.h"
+	"TARJETA.h"
+
+1483819030 c:\users\gari\desktop\matussotoedd\include\persona.h
+	"RUT.h"
+	"FECHA.h"
+	<string>
+
+1483819409 c:\users\gari\desktop\matussotoedd\include\rut.h
+
+1483944093 c:\users\gari\desktop\matussotoedd\include\fecha.h
+
+1483819595 c:\users\gari\desktop\matussotoedd\include\tarjeta.h
+
+1483944093 source:c:\users\gari\desktop\matussotoedd\src\fecha.cpp
+	"FECHA.h"
+
+1485272161 source:c:\users\gari\desktop\matussotoedd\src\jugador.cpp
+	"JUGADOR.h"
+
+1485272173 c:\users\gari\desktop\matussotoedd\include\jugador.h
+	"PERSONA.h"
+	"TARJETA.h"
+
+1484010902 source:c:\users\gari\desktop\matussotoedd\src\mundial.cpp
+	"MUNDIAL.h"
+
+1484010628 c:\users\gari\desktop\matussotoedd\include\mundial.h
+	"FECHA.h"
+	"PARTIDO.h"
+
+1485277057 c:\users\gari\desktop\matussotoedd\include\partido.h
+	"PAIS.h"
+	"FECHA.h"
+	"ARBITRO.h"
+
+1485272183 c:\users\gari\desktop\matussotoedd\include\pais.h
+	"JUGADOR.h"
+	"TECNICO.h"
+
+1483945346 c:\users\gari\desktop\matussotoedd\include\tecnico.h
+	"PERSONA.h"
+
+1485272193 source:c:\users\gari\desktop\matussotoedd\src\pais.cpp
+	"PAIS.h"
+
+1484011553 source:c:\users\gari\desktop\matussotoedd\src\partido.cpp
+	"PARTIDO.h"
+
+1483819101 source:c:\users\gari\desktop\matussotoedd\src\persona.cpp
+	"PERSONA.h"
+
+1483819431 source:c:\users\gari\desktop\matussotoedd\src\rut.cpp
+	"RUT.h"
+
+1483819511 source:c:\users\gari\desktop\matussotoedd\src\tarjeta.cpp
+	"TARJETA.h"
+
+1483945970 source:c:\users\gari\desktop\matussotoedd\src\tecnico.cpp
+	"TECNICO.h"
+	"PERSONA.h"
+
+1485281865 source:c:\users\gari\desktop\matussotoedd\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"JUGADOR.h"
+	"TECNICO.h"
+	"PAIS.h"
+	"RUT.h"
+	"FECHA.h"
+	"TARJETA.h"
+	"MUNDIAL.h"
+	"Lista.h"
+	"Parte3.h"
+
+1485282083 source:c:\users\gari\desktop\matussotoedd\parte3.cpp
+	<iostream>
+	<string>
+	"Lista.h"
+
+1485282046 c:\users\gari\desktop\matussotoedd\lista.h
+	"JUGADOR.h"
+	"TECNICO.h"
+	"PAIS.h"
+	"RUT.h"
+	"FECHA.h"
+	"TARJETA.h"
+	"MUNDIAL.h"
+
+1485281887 c:\users\gari\desktop\matussotoedd\parte3.h
+	"Lista.h"
+	"MUNDIAL.h"
+
+1524444458 source:c:\users\gari\desktop\u\matussotoedd\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"JUGADOR.h"
+	"TECNICO.h"
+	"PAIS.h"
+	"RUT.h"
+	"FECHA.h"
+	"TARJETA.h"
+	"MUNDIAL.h"
+	"Lista.h"
+	"Parte3.h"
+
+1485268573 c:\users\gari\desktop\u\matussotoedd\include\jugador.h
+	"PERSONA.h"
+	"TARJETA.h"
+
+1483815430 c:\users\gari\desktop\u\matussotoedd\include\persona.h
+	"RUT.h"
+	"FECHA.h"
+	<string>
+
+1483815809 c:\users\gari\desktop\u\matussotoedd\include\rut.h
+
+1483940493 c:\users\gari\desktop\u\matussotoedd\include\fecha.h
+
+1483815995 c:\users\gari\desktop\u\matussotoedd\include\tarjeta.h
+
+1483941746 c:\users\gari\desktop\u\matussotoedd\include\tecnico.h
+	"PERSONA.h"
+
+1502265722 c:\users\gari\desktop\u\matussotoedd\include\pais.h
+	"JUGADOR.h"
+	"TECNICO.h"
+
+1484007028 c:\users\gari\desktop\u\matussotoedd\include\mundial.h
+	"FECHA.h"
+	"PARTIDO.h"
+
+1485273457 c:\users\gari\desktop\u\matussotoedd\include\partido.h
+	"PAIS.h"
+	"FECHA.h"
+	"ARBITRO.h"
+
+1483922726 c:\users\gari\desktop\u\matussotoedd\include\arbitro.h
+	"PERSONA.h"
+	"TARJETA.h"
+
+1485278446 c:\users\gari\desktop\u\matussotoedd\lista.h
+	"JUGADOR.h"
+	"TECNICO.h"
+	"PAIS.h"
+	"RUT.h"
+	"FECHA.h"
+	"TARJETA.h"
+	"MUNDIAL.h"
+
+1485278287 c:\users\gari\desktop\u\matussotoedd\parte3.h
+	"Lista.h"
+	"MUNDIAL.h"
+
+1483922726 source:c:\users\gari\desktop\u\matussotoedd\src\arbitro.cpp
+	"ARBITRO.h"
+
+1483940493 source:c:\users\gari\desktop\u\matussotoedd\src\fecha.cpp
+	"FECHA.h"
+
+1485268561 source:c:\users\gari\desktop\u\matussotoedd\src\jugador.cpp
+	"JUGADOR.h"
+
+1484007302 source:c:\users\gari\desktop\u\matussotoedd\src\mundial.cpp
+	"MUNDIAL.h"
+
+1485268593 source:c:\users\gari\desktop\u\matussotoedd\src\pais.cpp
+	"PAIS.h"
+
+1484007953 source:c:\users\gari\desktop\u\matussotoedd\src\partido.cpp
+	"PARTIDO.h"
+
+1483815501 source:c:\users\gari\desktop\u\matussotoedd\src\persona.cpp
+	"PERSONA.h"
+
+1483815831 source:c:\users\gari\desktop\u\matussotoedd\src\rut.cpp
+	"RUT.h"
+
+1483815911 source:c:\users\gari\desktop\u\matussotoedd\src\tarjeta.cpp
+	"TARJETA.h"
+
+1483942370 source:c:\users\gari\desktop\u\matussotoedd\src\tecnico.cpp
+	"TECNICO.h"
+	"PERSONA.h"
+
+1524445165 source:c:\users\gari\desktop\u\matussotoedd\parte3.cpp
+	<iostream>
+	<string>
+	"Lista.h"
+	<stdlib.h>
+

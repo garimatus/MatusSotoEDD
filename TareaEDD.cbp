@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TareaEDD" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TareaEDD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TareaEDD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Parte3.cpp" />
+		<Unit filename="Parte3.h" />
+		<Unit filename="include/ARBITRO.h" />
+		<Unit filename="include/FECHA.h" />
+		<Unit filename="include/JUGADOR.h" />
+		<Unit filename="include/MUNDIAL.h" />
+		<Unit filename="include/PAIS.h" />
+		<Unit filename="include/PARTIDO.h" />
+		<Unit filename="include/PERSONA.h" />
+		<Unit filename="include/RUT.h" />
+		<Unit filename="include/TARJETA.h" />
+		<Unit filename="include/TECNICO.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/ARBITRO.cpp" />
+		<Unit filename="src/FECHA.cpp" />
+		<Unit filename="src/JUGADOR.cpp" />
+		<Unit filename="src/MUNDIAL.cpp" />
+		<Unit filename="src/PAIS.cpp" />
+		<Unit filename="src/PARTIDO.cpp" />
+		<Unit filename="src/PERSONA.cpp" />
+		<Unit filename="src/RUT.cpp" />
+		<Unit filename="src/TARJETA.cpp" />
+		<Unit filename="src/TECNICO.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
